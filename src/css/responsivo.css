@@ -1,0 +1,23 @@
+@media (max-width: 500px) {
+    .cartao {
+        width: 320px;
+    }
+}
+
+@media (max-width: 320px) {
+    body {
+        background-color: rgb(0, 0, 0);
+    }
+
+    .fundo-video {
+        display: none;
+    }
+
+    .cartao {
+        width: 280px;
+    }
+
+    .redes-sociais li a {
+        width: 180px;
+    }
+}
